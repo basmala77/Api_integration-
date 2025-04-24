@@ -1,0 +1,6 @@
+@aramex_HostAddress = http://localhost:5119
+
+GET {{aramex_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

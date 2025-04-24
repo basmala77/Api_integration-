@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "FOMJQ/73FcYm0bh9H1ePvsBmYYejGORA6ZiR1HD2Na0=",
+  "Source": "aramex",
+  "BasePath": "_content/aramex",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

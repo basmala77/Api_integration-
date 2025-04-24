@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP\\aramex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1F2209-A729-4E60-BE0B-3B3C254B4CEC}|aramex\\aramex.csproj|d:\\asp\\aramex\\aramex\\aramexservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1F2209-A729-4E60-BE0B-3B3C254B4CEC}|aramex\\aramex.csproj|solutionrelative:aramex\\aramexservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1F2209-A729-4E60-BE0B-3B3C254B4CEC}|aramex\\aramex.csproj|d:\\asp\\aramex\\aramex\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC1F2209-A729-4E60-BE0B-3B3C254B4CEC}|aramex\\aramex.csproj|solutionrelative:aramex\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1F2209-A729-4E60-BE0B-3B3C254B4CEC}|aramex\\aramex.csproj|d:\\asp\\aramex\\aramex\\aramexsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1F2209-A729-4E60-BE0B-3B3C254B4CEC}|aramex\\aramex.csproj|solutionrelative:aramex\\aramexsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1F2209-A729-4E60-BE0B-3B3C254B4CEC}|aramex\\aramex.csproj|d:\\asp\\aramex\\aramex\\controllers\\shippingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1F2209-A729-4E60-BE0B-3B3C254B4CEC}|aramex\\aramex.csproj|solutionrelative:aramex\\controllers\\shippingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1F2209-A729-4E60-BE0B-3B3C254B4CEC}|aramex\\aramex.csproj|d:\\asp\\aramex\\aramex\\connected services\\aramexshippingservice\\connectedservice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC1F2209-A729-4E60-BE0B-3B3C254B4CEC}|aramex\\aramex.csproj|solutionrelative:aramex\\connected services\\aramexshippingservice\\connectedservice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1F2209-A729-4E60-BE0B-3B3C254B4CEC}|aramex\\aramex.csproj|d:\\asp\\aramex\\aramex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1F2209-A729-4E60-BE0B-3B3C254B4CEC}|aramex\\aramex.csproj|solutionrelative:aramex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1F2209-A729-4E60-BE0B-3B3C254B4CEC}|aramex\\aramex.csproj|d:\\asp\\aramex\\aramex\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1F2209-A729-4E60-BE0B-3B3C254B4CEC}|aramex\\aramex.csproj|solutionrelative:aramex\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1F2209-A729-4E60-BE0B-3B3C254B4CEC}|aramex\\aramex.csproj|d:\\asp\\aramex\\aramex\\connected services\\aramexshippingservice\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1F2209-A729-4E60-BE0B-3B3C254B4CEC}|aramex\\aramex.csproj|solutionrelative:aramex\\connected services\\aramexshippingservice\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1F2209-A729-4E60-BE0B-3B3C254B4CEC}|aramex\\aramex.csproj|d:\\asp\\aramex\\aramex\\aramex.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC1F2209-A729-4E60-BE0B-3B3C254B4CEC}|aramex\\aramex.csproj|solutionrelative:aramex\\aramex.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1F2209-A729-4E60-BE0B-3B3C254B4CEC}|aramex\\aramex.csproj|d:\\asp\\aramex\\aramex\\aramex.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FC1F2209-A729-4E60-BE0B-3B3C254B4CEC}|aramex\\aramex.csproj|solutionrelative:aramex\\aramex.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AramexService.cs",
+              "DocumentMoniker": "D:\\ASP\\aramex\\aramex\\AramexService.cs",
+              "RelativeDocumentMoniker": "aramex\\AramexService.cs",
+              "ToolTip": "D:\\ASP\\aramex\\aramex\\AramexService.cs",
+              "RelativeToolTip": "aramex\\AramexService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwCUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T22:30:21.417Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP\\aramex\\aramex\\appsettings.json",
+              "RelativeDocumentMoniker": "aramex\\appsettings.json",
+              "ToolTip": "D:\\ASP\\aramex\\aramex\\appsettings.json",
+              "RelativeToolTip": "aramex\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T22:31:08.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AramexSettings.cs",
+              "DocumentMoniker": "D:\\ASP\\aramex\\aramex\\AramexSettings.cs",
+              "RelativeDocumentMoniker": "aramex\\AramexSettings.cs",
+              "ToolTip": "D:\\ASP\\aramex\\aramex\\AramexSettings.cs",
+              "RelativeToolTip": "aramex\\AramexSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:35:07.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP\\aramex\\aramex\\Program.cs",
+              "RelativeDocumentMoniker": "aramex\\Program.cs",
+              "ToolTip": "D:\\ASP\\aramex\\aramex\\Program.cs",
+              "RelativeToolTip": "aramex\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T22:32:11.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShippingController.cs",
+              "DocumentMoniker": "D:\\ASP\\aramex\\aramex\\Controllers\\ShippingController.cs",
+              "RelativeDocumentMoniker": "aramex\\Controllers\\ShippingController.cs",
+              "ToolTip": "D:\\ASP\\aramex\\aramex\\Controllers\\ShippingController.cs",
+              "RelativeToolTip": "aramex\\Controllers\\ShippingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T00:20:44.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConnectedService.json",
+              "DocumentMoniker": "D:\\ASP\\aramex\\aramex\\Connected Services\\AramexShippingService\\ConnectedService.json",
+              "RelativeDocumentMoniker": "aramex\\Connected Services\\AramexShippingService\\ConnectedService.json",
+              "ToolTip": "D:\\ASP\\aramex\\aramex\\Connected Services\\AramexShippingService\\ConnectedService.json",
+              "RelativeToolTip": "aramex\\Connected Services\\AramexShippingService\\ConnectedService.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T01:16:19.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\ASP\\aramex\\aramex\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "aramex\\WeatherForecast.cs",
+              "ToolTip": "D:\\ASP\\aramex\\aramex\\WeatherForecast.cs",
+              "RelativeToolTip": "aramex\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T01:24:46.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "aramex.csproj",
+              "DocumentMoniker": "D:\\ASP\\aramex\\aramex\\aramex.csproj",
+              "RelativeDocumentMoniker": "aramex\\aramex.csproj",
+              "ToolTip": "D:\\ASP\\aramex\\aramex\\aramex.csproj",
+              "RelativeToolTip": "aramex\\aramex.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T00:51:57.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "D:\\ASP\\aramex\\aramex\\Connected Services\\AramexShippingService\\Reference.cs",
+              "RelativeDocumentMoniker": "aramex\\Connected Services\\AramexShippingService\\Reference.cs",
+              "ToolTip": "D:\\ASP\\aramex\\aramex\\Connected Services\\AramexShippingService\\Reference.cs",
+              "RelativeToolTip": "aramex\\Connected Services\\AramexShippingService\\Reference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:38:03.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "aramex.http",
+              "DocumentMoniker": "D:\\ASP\\aramex\\aramex\\aramex.http",
+              "RelativeDocumentMoniker": "aramex\\aramex.http",
+              "ToolTip": "D:\\ASP\\aramex\\aramex\\aramex.http",
+              "RelativeToolTip": "aramex\\aramex.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-09T22:31:02.197Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
